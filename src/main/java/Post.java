@@ -5,5 +5,6 @@ public class Post {
     public String phone;
     public String surname;
     public String subscription;
+    public String dateOfBirth;
     public FormDate birthday;
 }
