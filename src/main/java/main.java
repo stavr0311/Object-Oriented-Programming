@@ -8,7 +8,7 @@ public class main {
         Post.patronymic = "Евгеньевич";
         Post.passport = "4444 999999";
         Post.phone = "89119506677";
-        Post.subscription = "Подписаться";
+        Post.subscription = true;
         Post.dateOfBirth = "Дата рождения:";
 
         Post.birthday = new FormDate();
